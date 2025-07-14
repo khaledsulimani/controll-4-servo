@@ -13,3 +13,7 @@ first we try to make the circut in tinkercad and simulate it
           3-yellow=signal
 
             so we will use breadborad for connect all gnd and vin and all sginal wire to the arduino and we will take power source from power bank
+
+
+https://github.com/user-attachments/assets/77825a28-8d01-41ff-9b34-1447de875747
+
